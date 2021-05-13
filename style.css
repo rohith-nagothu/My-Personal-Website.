@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    padding-top: 100px;
+    background:linear-gradient(#0ee3e0 47%,#e600ff 100%); 
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    z-index: 100;
+    cursor:pointer;
+}
+.li{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
